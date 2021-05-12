@@ -1,0 +1,7 @@
+Follow this steps :
+    1. Open Docker desktop dashboard.
+    2. Open 'Preferences'
+    3. Go to 'Kubernetes'
+    4. Check 'Enable Kubernetes'
+    5. Add '/etc/hosts' items.
+        - 127.0.0.1  jenkins.local

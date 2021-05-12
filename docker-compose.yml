@@ -1,0 +1,9 @@
+version: '3.8'
+services:
+  jenkins:
+    container_name: jenkins
+    image: jenkins/jenkins:lts-jdk11
+    ports:
+      - 10001:8080
+    volumes:
+      - ./volumes/jenkins/home:/var/jenkins_home

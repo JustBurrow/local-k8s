@@ -994,4 +994,6 @@ bin-debug/
 bin-release/
 
 *.dmg
-home/
+volumes/
+temp/
+tmp/
