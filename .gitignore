@@ -994,3 +994,4 @@ bin-debug/
 bin-release/
 
 *.dmg
+home/
