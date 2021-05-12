@@ -992,3 +992,5 @@ test-results/
 ### FlexBuilder template
 bin-debug/
 bin-release/
+
+*.dmg
